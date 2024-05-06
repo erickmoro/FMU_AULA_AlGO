@@ -1,2 +1,3 @@
 # FMU_AULA_AlGO[
-dadsadadadads
+um repo para as aulas de logiva da fmu
+
